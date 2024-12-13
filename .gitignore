@@ -1,6 +1,9 @@
 # rust
 /target
 
+# diesel
+diesel.toml
+
 # data
 data/
 
