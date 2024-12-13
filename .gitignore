@@ -3,6 +3,7 @@
 
 # diesel
 diesel.toml
+src/schema.rs
 
 # data
 data/
